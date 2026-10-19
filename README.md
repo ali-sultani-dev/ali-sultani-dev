@@ -1,16 +1,27 @@
-## Hi there 👋
+## About Me
 
-<!--
-**ali-sultani-dev/ali-sultani-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ali Sultani, a full-stack developer building with AI. I hold a Bachelor of Computer and Information Sciences, majoring in Software Development with a minor in Artificial Intelligence, and I've also completed a Diploma in Web & UX/UI Design.
 
-Here are some ideas to get you started:
+I build software for businesses, from websites and internal tools to AI features that save people time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Here are some of the technologies I've worked with. It's not the full list, and I pick up new tools quickly when a project needs them.
+
+**Languages:** TypeScript, JavaScript, Python, Java, SQL, C#, HTML, CSS
+
+**Frontend:** React, Next.js, Tailwind CSS, TanStack Query, Zustand
+
+**Backend:** Node.js, Express, REST APIs, Prisma, PostgreSQL, MongoDB, Supabase, Stripe
+
+**Cloud and DevOps:** AWS, Docker, GitHub Actions CI/CD, Vercel, Nginx, Linux
+
+**AI and Data:** OpenAI API, Whisper, Google Gemini, Vercel AI SDK, InfluxDB
+
+**Tools:** Git/GitHub, Jest, Figma, Postman, Agile/Scrum
+
+## Contact
+
+- **LinkedIn:** [Check out more about me here](https://www.linkedin.com/in/ali-sultani-dev/)
+- **Portfolio:** [portfolio.projectsbyali.xyz](https://portfolio.projectsbyali.xyz)
+- **Email:** [ali.sultani.dev@gmail.com](mailto:ali.sultani.dev@gmail.com)
