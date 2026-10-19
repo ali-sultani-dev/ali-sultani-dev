@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Ali Sultani, a full-stack developer building with AI. I hold a Bachelor of Computer and Information Sciences, majoring in Software Development with a minor in Artificial Intelligence, and I've also completed a Diploma in Web & UX/UI Design.
+I'm Ali Sultani, a full-stack developer building with AI. I hold a Bachelor of Computer and Information Sciences, majored in Software Development with a minor in Artificial Intelligence, and I've also completed a Diploma in Web & UX/UI Design.
 
 I build software for businesses, from websites and internal tools to AI features that save people time.
 
